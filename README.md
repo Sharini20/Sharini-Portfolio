@@ -1,4 +1,10 @@
-<h1>Hi, I'm Sharini Anumula! <br/><a href="https://github.com/yourgithub">Full Stack Java Developer</a> </h1>
+<!-- Container to align name/title and image side by side -->
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- Name and title on the left -->
+  <div>
+    <h1>Hi, I'm Sharini Anumula! <br/><a href="https://github.com/yourgithub">Full Stack Java Developer</a> </h1>
+  </div>
+
 
 <h2>👨‍💻 About Me:</h2>
 <p>A passionate and results-driven Full Stack Java Developer specializing in cloud-native applications. I bring 6+ years of experience building scalable, secure, and high-performance solutions across AWS, Azure, and GCP, from architecting robust back-end systems with Java, Spring Boot, and Kafka to crafting engaging user interfaces with ReactJS and Vue.js. Driven by a commitment to delivering tangible business value, I leverage my expertise to solve complex challenges and create impactful solutions.</p>
