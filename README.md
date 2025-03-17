@@ -50,11 +50,15 @@
 </ul>
 <h2> 🤳 Connect with me:</h2>
 
+<!-- Social Media Icons -->
 [<img align="left" alt="Sharini Anumula | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sharini Anumula | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Sharini Anumula | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Sharini Anumula | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Sharini Anumula | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+<!-- Social Media Links -->
 [linkedin]: https://www.linkedin.com/in/sharini-anumula-bbab43226/
-[github]: https://github.com/Sharini20
-[medium]: https://medium.com/@sharinireddy20
+[twitter]: https://twitter.com/sharini_anumula
+[instagram]: https://www.instagram.com/sharini_anumula/
+
 
