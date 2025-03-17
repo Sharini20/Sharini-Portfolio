@@ -42,17 +42,13 @@
   <li><b>Master's in Business Analytics</b> - University of Dayton (2022 - 2024)</li>
   
 </ul>
+<h2> 🤳 Connect with me:</h2>
 
-<h2>📧 Contact Me:</h2>
-<p>Feel free to reach out to me for any questions or opportunities!</p>
-<form action="mailto:youremail@example.com" method="post" enctype="text/plain">
-  <label for="email">Your Email:</label><br>
-  <input type="email" id="email" name="email" required><br>
-  <label for="name">Your Name:</label><br>
-  <input type="text" id="name" name="name" required><br>
-  <label for="subject">Subject:</label><br>
-  <input type="text" id="subject" name="subject" required><br>
-  <label for="message">Message:</label><br>
-  <textarea id="message" name="message" rows="4" required></textarea><br>
-  <input type="submit" value="Send">
-</form>
+[<img align="left" alt="Sharini Anumula | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sharini Anumula | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Sharini Anumula | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
+[linkedin]: https://www.linkedin.com/in/sharini-anumula-bbab43226/
+[github]: https://github.com/Sharini20
+[medium]: https://medium.com/@sharinireddy20
+
